@@ -1,4 +1,4 @@
-# UofU-VIRT-FSF-PT-12-2023-U-LOLC
+# UofU-bootcamp
 
 
 
